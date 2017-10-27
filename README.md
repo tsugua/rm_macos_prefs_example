@@ -1,6 +1,4 @@
-pic_timeline
+RubyMotion Prefrences Example
 ============
 
-This app will crash when it first opens. It creates a folder called 'Eos Video Player' in the user directory. Once this has been created please put a .mov or .mp4 file into the folder and the app will work. 
-
-This app worked fine when it was built with MacRuby. With RubyMotion I'm getting huge memory problems. It may be from the way I'm dealing with the scrubbing. 
+An example repository showing how to make a ‘traditional’ preferences controller window. This is based off a MacRuby example which I used years ago. I cannot find orginial attribution so if this looks familiar… Thank you!
