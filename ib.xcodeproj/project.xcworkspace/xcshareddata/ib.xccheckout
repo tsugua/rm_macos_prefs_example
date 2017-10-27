@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>54062248-8506-4372-B2D7-0B900BAD1A03</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>70B0BA1666D599F6BBE488A32721096E6F58F603</key>
+		<string>https://github.com/tsugua/pic_timeline.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ib.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>70B0BA1666D599F6BBE488A32721096E6F58F603</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tsugua/pic_timeline.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>70B0BA1666D599F6BBE488A32721096E6F58F603</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>70B0BA1666D599F6BBE488A32721096E6F58F603</string>
+			<key>IDESourceControlWCCName</key>
+			<string>eosscreenmask</string>
+		</dict>
+	</array>
+</dict>
+</plist>

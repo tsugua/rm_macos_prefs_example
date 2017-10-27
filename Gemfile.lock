@@ -1,0 +1,33 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    CFPropertyList (2.3.5)
+    bubble-wrap (1.9.6)
+    claide (1.0.2)
+    colored2 (3.1.2)
+    ib (1.0.1)
+      thor (~> 0.19.1)
+      tilt (~> 2.0.3)
+      xcodeproj (~> 1.0)
+    motion_print (1.2.0)
+    nanaimo (0.2.3)
+    rake (12.1.0)
+    thor (0.19.4)
+    tilt (2.0.8)
+    xcodeproj (1.5.2)
+      CFPropertyList (~> 2.3.3)
+      claide (>= 1.0.2, < 2.0)
+      colored2 (~> 3.1)
+      nanaimo (~> 0.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap
+  ib
+  motion_print
+  rake
+
+BUNDLED WITH
+   1.15.4
